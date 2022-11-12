@@ -4,7 +4,7 @@ Hi  My name is Eric Gosling
 Software Engineer
 -----------------
 
-Hi, I'm Eric! I'm a programmer and a full-time computer engineering student with an Honors GPA.
+Hi, I'm Eric! I'm a programmer and a full-time computer engineering student who is also a member of PTK, Psi Beta, and an Honors student.
 
 * 🌍  I'm based in Tampa, FL
 * ✉️  You can contact me at [ericgosling@gmail.com](mailto:ericgosling@gmail.com)
