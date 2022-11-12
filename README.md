@@ -1,4 +1,4 @@
-Hi 👋 My name is Eric Gosling
+Hi  My name is Eric Gosling
 =============================
 
 Software Engineer
