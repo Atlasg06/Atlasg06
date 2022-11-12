@@ -1,10 +1,10 @@
-Hi  My name is Eric Gosling
+Hi My name is Eric Gosling
 =============================
 
 Software Engineer
 -----------------
 
-Hi, I'm Eric! I'm a programmer and a full-time computer engineering student who is also a member of PTK, Psi Beta, and an Honors student.
+Hi, I'm Eric! I'm a programmer and a full-time computer engineering student with an Honors GPA.
 
 * 🌍  I'm based in Tampa, FL
 * ✉️  You can contact me at [ericgosling@gmail.com](mailto:ericgosling@gmail.com)
@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/atlasg06?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/atlasg06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/atlasg06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
